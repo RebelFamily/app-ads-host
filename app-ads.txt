@@ -3383,3 +3383,21 @@ smartadserver.com, 4998-OB, RESELLER, 060d053dcf45cbf3
 onetag.com, 8c90176af2e65c8-OB, DIRECT
 rubiconproject.com, 26252, RESELLER, 0bfd66d529a55807
 risecodes.com, 680b33a1fc57d10001c035e1, DIRECT
+lijit.com, 560797, RESELLER, fafdf38b16bf6b2b #SOVRN
+adingo.jp, 32401, RESELLER
+pubnative.net,1009046,RESELLER,d641df8625486a7b
+carbonatix.com,14840966,RESELLER
+onetag.com,82e44d118b79600,RESELLER
+pubmatic.com,163420,RESELLER,5d62403b186f2ace
+improvedigital.com, 2417, RESELLER
+startapp.com, ope, RESELLER
+start.io, ope, RESELLER
+start.io,116712987,RESELLER
+freewheel.tv, 1600180, RESELLER
+freewheel.tv, 1600214, RESELLER
+sabio.us, 100092, DIRECT, 96ed93aaa9795702
+freewheel.tv, 1606620, RESELLER
+freewheel.tv, 1606633, RESELLER
+opera.com,pub6843437470464,DIRECT,55a0c5fd61378de3
+lijit.com, 560797, DIRECT, fafdf38b16bf6b2b #SOVRN
+lijit.com, 560797-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
