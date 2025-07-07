@@ -3401,3 +3401,6 @@ freewheel.tv, 1606633, RESELLER
 opera.com,pub6843437470464,DIRECT,55a0c5fd61378de3
 lijit.com, 560797, DIRECT, fafdf38b16bf6b2b #SOVRN
 lijit.com, 560797-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
+adster.tech, 3023, DIRECT
+thejungletechnology.com, 3023, DIRECT
+pixelverge.co, 3023, DIRECT
