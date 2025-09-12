@@ -4300,3 +4300,16 @@ xandr.com, 13291, RESELLER, f5ab79cb980f11d1
 yeahmobi.com, 5135063, RESELLER
 zetaglobal.net, 856, RESELLER
 zetaglobal.net, 939, RESELLER
+pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24248, RESELLER, 0bfd66d529a55807
+lijit.com, 550620, RESELLER, fafdf38b16bf6b2b
+video.unrulymedia.com, 583925374, RESELLER
+admixer.net, 1046d8dc-f1a9-439d-a8a5-3401fda83729, RESELLER
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
+risecodes.com, 67e92bf7698942000140acce, RESELLER
+smartadserver.com, 4284, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
+voisetech.com, 1127, RESELLER, 9009ef0379162448
+media.net, 8CUE65SNU, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
+freewheel.tv, sg1258340, RESELLER
