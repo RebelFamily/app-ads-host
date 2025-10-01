@@ -4806,3 +4806,9 @@ zetaglobal.com,815,RESELLER
 zmaticoo.com,114490,RESELLER
 zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135302,RESELLER
+uis.mobfox.com, 2444, RESELLER, 5529a3d1f59865be
+eskimi.com, 22950519347, DIRECT
+rubiconproject.com, 27854, DIRECT, 0bfd66d529a55807
+lemmatechnologies.com, 1844, DIRECT, 7829010c5bebd1fb
+bidscube.com, 5000660,RESELLER, 6ecc87a1e0269657
+smilewanted.com, 5801, RESELLER
