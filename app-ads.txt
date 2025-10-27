@@ -4875,3 +4875,14 @@ Contextweb.com,562911,RESELLER,89ff185a4c4e857c
 video.unrulymedia.com, 331375505, RESELLER
 ogury.com, 3f23bfc6-4ad7-4508-8412-86c8be638b17, RESELLER
 richaudience.com, uZBUkzcLJe, RESELLER
+appbroda.com, 1616, DIRECT
+google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
+uis.mobfox.com, 2158, RESELLER, 5529a3d1f59865be
+foxpush.com, 11233319, RESELLER
+opera.com,pub10908243052672,RESELLER,55a0c5fd61378de3
+outbrain.com,002d7f7ba0bd74452f2b155d0dfb5cd6c8,RESELLER
+sonobi.com,a85c5f6129,RESELLER,d1a215d9eb5aee9e
+smartadserver.com, 4941, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4941-OB, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 163078, RESELLER, 5d62403b186f2ace
+lijit.com, 489954, DIRECT, fafdf38b16bf6b2b
