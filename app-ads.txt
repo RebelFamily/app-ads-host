@@ -5382,3 +5382,5 @@ adagio.io, 1454, RESELLER
 rubiconproject.com, 23330, RESELLER, 0bfd66d529a55807
 openx.com, 541079309, RESELLER, 6a698e2ec38604c6
 toponad.com, 168119612ada3d, RESELLER, 1d49fe424a1a456d
+video.unrulymedia.com, 261210763, DIRECT, 98c21ef9a666c68b
+dauup.com, 34138, RESELLER, 4daba13e2b0dfd92
