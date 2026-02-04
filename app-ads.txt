@@ -5384,3 +5384,19 @@ openx.com, 541079309, RESELLER, 6a698e2ec38604c6
 toponad.com, 168119612ada3d, RESELLER, 1d49fe424a1a456d
 video.unrulymedia.com, 261210763, DIRECT, 98c21ef9a666c68b
 dauup.com, 34138, RESELLER, 4daba13e2b0dfd92
+display.io,232020,RESELLER
+inmobi.com,ccbbac8e47044746baa5d273e6bd2a03,RESELLER,83e75a7ae333ca9d
+lacunads.com,LC13f68588aa4ee212,RESELLER
+media.net,8CU1CP7PM,RESELLER,818f58666cabc936
+media.net,8CUF7U34W,RESELLER,818f58666cabc936
+risecodes.com,68889ab9e3a193000189e78c,RESELLER,79929e88b2ba73bc
+triplelift.com,9029,RESELLER,6c33edb13117fd86
+streamlyn.com, bsrvptr20356, DIRECT
+google.com, pub-6254331789601537, RESELLER, f08c47fec0942fa0 #HBDR_Google
+MANAGERDOMAIN=tapmind.com
+kickads.mobi, 200, DIRECT
+ushareit.com, LCd8207a03da207ca4, RESELLER
+lacunads.com, LCd8207a03da207ca4, RESELLER
+triplelift.com, 14551, RESELLER, 6c33edb13117fd86
+volantisdigital.com, 757043, RESELLER
+rubiconproject.com, 27955, RESELLER, 0bfd66d529a55807
